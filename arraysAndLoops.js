@@ -117,14 +117,14 @@
 // console.log("You're an adult.")
 
 
-let cards = ["spade", "heart", "clubs", "diamond"]
-let currentCard = "clubs"
+// let cards = ["spade", "heart", "clubs", "diamond"]
+// let currentCard = "clubs"
 
-while (currentCard !== "spade"){
-    console.log(`card selected ${currentCard}`)
-    currentCard = cards[Math.floor(Math.random() * 4)]
-}
-console.log(`card selected ${currentCard}`)
+// while (currentCard !== "spade"){
+//     console.log(`card selected ${currentCard}`)
+//     currentCard = cards[Math.floor(Math.random() * 4)]
+// }
+// console.log(`card selected ${currentCard}`)
 
 
 // ARRAYS AND LOOPS ACTIVITY 1 - WEDNESDAY 19TH APRIL 2023 < Completed
@@ -156,7 +156,7 @@ console.log(`card selected ${currentCard}`)
 // ARRAYS AND LOOPS ACTIVITY 3 - WEDNESDAY 19TH APRIL 2023 < Not Completed
 
 
-// ARRAYS AND LOOPS ACTIVITY 4 - WEDNESDAY 19TH APRIL 2023 < Not completed
+// ARRAYS AND LOOPS ACTIVITY 4 - WEDNESDAY 19TH APRIL 2023
 // let films = ["Scream", "IT", "Ghostbusters", "IT2"]
 // let curMovie = "IT"
 

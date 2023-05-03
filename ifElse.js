@@ -74,7 +74,12 @@
 //     console.log(`${topping} should not be on a pizza`)}
 
 // ACTIVITY 3 (Wednesday 19th April 2023)
-
+let Password = "Whopper"
+if (Password.length) < 8; {
+    console.log(`You're password is too short.`)
+} else {
+    console.log(`Your ${Password} is strong.`)
+}
 
 
 

@@ -34,9 +34,8 @@
 //    Otherwise log false
 // let bool1 = true
 // let bool2 = false
-// let num1 = 3
-// let num2 = 5
-// if (num1 > num2) {
+// let num = Math.ceil(Math.random() * 20)
+// if (num > 10) {
 //     console.log (bool1)
 // } else {
 //     console.log(bool2)
